@@ -18,6 +18,5 @@ e. The premium price is found to vary with presence/increase of NumberOfMajorSur
 The model has an R2 score of 0.8764 and a MAPE value of 5.76%. So, the model has decent performance and can be used for predicting premium prices. This model will, on one hand, provide enhanced customization and reduced premiums to the customer, on the other hand it will help the insurance company in managing risks as now they will have premium values that will be fairly accurate thus help reducing the likelihood of non-performing assets (NPA). This will also help the insurance company in becoming more competitive.
 
 # Model Deployment
-
-
-
+Streamlit was used to deploy the model for reference. The same can be accessed from below link:
+https://insurancepredictor-001.streamlit.app/
